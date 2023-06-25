@@ -1,0 +1,38 @@
+Sopa de letras inicial: 
+ 
+ X D M C T O D S C V L Z
+ T W N H J Z S O V Z G G
+ K S T S E T B K A N F Q
+ G Z U V A W Z M I I Q D
+ P G I C I R M M N D C L
+ O S K P H S M S K O B M
+ R Y G C A A Q S J L Q T
+ Y I B C R R E A X J S L
+ N Q O G F N V U O N X I
+ P M O F I A Y G R U C V
+ G R X L L O A N P V D I
+ P P W O R D S A K J Z C
+
+Sopa de letras Resolvida: 
+ 
+ . . . . . . . . . . . .
+ . . . . . . S . . . G .
+ . . T S E T . . . N . .
+ . . . . A . . . I . . .
+ . . . C . . . M . . . .
+ . . K . . . M . . . . .
+ . . . . . A . S J . . .
+ . . . . R . E A . . . L
+ . . . G . N V . . . . I
+ . . O . I A . . . . . V
+ . R . L . . . . . . . I
+ P . W O R D S . . . . C
+
+Palavra         Tamanho         Posição       Direção      
+programming     11              12,1            Cima-Direita    
+java            4               7,9             Baixo-Esquerda  
+words           5               12,3            Direita         
+lines           5               11,4            Cima-Direita    
+civil           5               12,12           Cima            
+test            4               3,6             Esquerda        
+stack           5               2,7             Baixo-Esquerda  

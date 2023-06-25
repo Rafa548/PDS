@@ -1,0 +1,46 @@
+Sopa de letras inicial: 
+ 
+ P I J E F F Y F O W Z P R X Q
+ R Z Q O H V G T N V T F R U V
+ O Y I M N E C A E E Y K E Z J
+ G L H N K O N R N C V M H E B
+ R S K M C M E R C O L G U H I
+ A A V X Y R E K N K E A B P C
+ M C Q V G T I P R K H O D R Q
+ A F B R N R W V J O W V L O T
+ Y H D I M O T B E A A I R V Z
+ F K A A V E R F U L J Y U T L
+ T A A S S A S S I N A T O D B
+ F Y R C F H L I X O M N S Z U
+ K F A R W L E O Z P M N Y P L
+ H I D X Q G O X K Y R X Q X E
+ S G F M U I T O T K A V U S C
+
+Sopa de letras Resolvida: 
+ 
+ P . . . . . . . . . . . . . Q
+ R . . . . . . T . . T . . U .
+ O . I . . . . . E E . . E . .
+ G . . N . . . . N C . . . . .
+ R . . . C . . R . . L . . . .
+ A . . . . R E . . . . A . . .
+ M . . . . T I . . . . O D . .
+ A . . . N . . V . . . V . O .
+ . . . I . . . . E . . . . . .
+ . . . A V E . . . L . . . . .
+ . . A S S A S S I N A T O . .
+ . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . .
+ . . . M U I T O . . . . . . .
+
+Palavra         Tamanho         Posição       Direção      
+ave             3               10,4            Direita         
+muito           5               15,4            Direita         
+internet        8               9,4             Cima-Direita    
+incrivel        8               3,3             Baixo-Direita   
+que             3               1,15            Baixo-Esquerda  
+voa             3               8,12            Cima            
+programa        8               1,1             Baixo           
+teclado         7               2,8             Baixo-Direita   
+assassinato     11              11,3            Direita         

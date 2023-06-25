@@ -1,0 +1,29 @@
+Palavras encontradas: 
+
+algodao         7     12,5     Up         
+preto           5     11,1     Up         
+africa          6     3,8      Left       
+pico            4     5,3      Down       
+flores          6     11,4     Up         
+faial           5     5,2      Up         
+saojorge        8     1,10     Left       
+saomiguel       9     12,8     Up         
+terceira        8     9,11     Up         
+santamaria      10    11,10    Up         
+corvo           5     4,6      Down       
+graciosa        8     11,7     Up         
+
+Solução: 
+
+. L E G R O J O A S . .
+. A . . . . . . . A A .
+. I A C I R F A . I R .
+. A . . . C A L . R I .
+. F P . . O S E . A E .
+. . I S O R O U . M C .
+O . C E A V I G . A R .
+T . O R D O C I . T E .
+E . . O O . A M . N T .
+R . . L G . R O . A . .
+P . . F L . G A . S . .
+. . . . A . . S . . . .

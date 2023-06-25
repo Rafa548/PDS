@@ -1,0 +1,38 @@
+lab05->
+    ex1->factory
+    ex2->builder
+    ex3->builder
+    ex4-> Abstract factory
+        -> Singleton
+        -> Strategy
+
+lab06->
+    ex1->adapter
+    ex2->bridge
+    ex3->bridge
+
+lab07->
+    ex1->decorator
+    ex2->decorator
+    ex3->composite
+
+lab08->
+    ex1->proxy
+    ex2->facade
+    ex3->flyweight
+
+lab09->
+    ex1->iterator
+    ex2->chain of responsability
+    ex3->command
+
+lab10->
+    ex1->observer
+    ex2->null
+    ex3->mediator
+
+lab11->
+    ex1->Strategy
+    ex2->template
+    ex3->state
+    ex4->visitor

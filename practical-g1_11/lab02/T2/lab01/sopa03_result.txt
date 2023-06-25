@@ -1,0 +1,20 @@
+Palavras encontradas: 
+
+joaquim         7     2,2      Right      
+hugo            4     4,4      Left       
+antonio         7     7,1      Up         
+tobias          6     1,2      DownRight  
+tomas           5     10,4     Up         
+
+Solução: 
+
+O T . . . . . . . .
+I J O A Q U I M . .
+N . . B . . . . . .
+O G U H I . . . . .
+T . . . . A . . . .
+N . . S . . S . . .
+A . . A . . . . . .
+. . . M . . . . . .
+. . . O . . . . . .
+. . . T . . . . . .

@@ -1,0 +1,40 @@
+Sopa de letras inicial: 
+ 
+ G G W W H U A M S E H X L
+ U Y H H Y J R H N P M U Q
+ H G K V J W A M A D R R L
+ L V Z O F O R S V M A O J
+ A O U T L Q C P H H R D Z
+ M Q O B B A I A N U E A N
+ I Z S D E W G I S P O T X
+ N M W R U N L F G A K U B
+ A G S S E A F R R Y C P P
+ U K O K G Q R I Z S Z M H
+ U L T C Y X S J C W W O X
+ P Z A G X M B A H A K C N
+ H R P E X N X H V J O Q O
+
+Sopa de letras Resolvida: 
+ 
+ . . . . . . . . . . . . .
+ . . . . . . . . . . . . .
+ . . . . . . . . . . . R .
+ L . . O . O . . . . A O .
+ A . . . L . C . . H . D .
+ M . . B . A . A N . . A .
+ I . . . E . G I S . . T .
+ N . . . . N L . . A . U .
+ A . . . . A F . . . C P .
+ . . O . G . . I . . . M .
+ . . T . . . . . C . . O .
+ . . A . . . . . . A . C .
+ . . P . . . . . . . . . .
+
+Palavra         Tamanho         Posição       Direção      
+galinha         7               10,5            Cima-Direita    
+pato            4               13,3            Cima            
+galo            4               7,7             Cima-Esquerda   
+animal          6               9,1             Cima            
+benfica         7               6,4             Baixo-Direita   
+computador      10              12,12           Cima            
+casaco          6               9,11            Cima-Esquerda   

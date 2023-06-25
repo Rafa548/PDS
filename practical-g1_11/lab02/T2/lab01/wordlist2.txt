@@ -1,0 +1,5 @@
+tigre
+leao
+cavalo
+ovelha
+vaca

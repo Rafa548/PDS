@@ -1,0 +1,1 @@
+Um operador de satelites que recebe informaçao de uma emissora e transmite para todos os seus usuários registados.
